@@ -1,2 +1,2 @@
 # MX-Master-2s-Logiops-Config-file
-This repository contains a customized configuration file for the MX Master 2S mouse using Logiops on Ubuntu
+This repository contains a customized configuration file for the MX Master 2S mouse using Logiops on Ubuntu. The configuration is tailored for enhanced productivity, with specific gestures mapped to actions like application switching, window snapping, volume control, and text editing shortcuts (e.g., Undo, Redo, Cut, and Paste). This setup optimizes the MX Master 2S to provide efficient and intuitive control across various tasks. Feel free to explore, modify, and contribute to improve usability and add additional gestures!
