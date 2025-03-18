@@ -11,8 +11,6 @@ make
 
 sudo make install
 
-sudo systemctl enable --now logid
-
 sudo nano /etc/logid.cfg
 
 sudo systemctl enable --now logid
