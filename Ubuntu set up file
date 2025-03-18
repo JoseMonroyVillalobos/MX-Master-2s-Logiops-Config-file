@@ -16,3 +16,10 @@ sudo nano /etc/logid.cfg
 sudo systemctl enable --now logid
 
 sudo systemctl enable logid
+
+
+//unrelated
+
+sudo apt install openssh-client
+
+sudo apt install openssh-server
