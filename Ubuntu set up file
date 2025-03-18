@@ -1,4 +1,4 @@
-sudo apt install git libfuse2 libxi6 libxrender1 libxtst6 mesa-utils libfontconfig libgtk-3-bin tar dbus-user-session build-essential cmake pkg-config libevdev-dev libudev-dev libconfig++-dev libglib2.0-dev
+sudo apt install git neofetch htop libfuse2 libxi6 libxrender1 libxtst6 mesa-utils libfontconfig libgtk-3-bin tar dbus-user-session build-essential cmake pkg-config libevdev-dev libudev-dev libconfig++-dev libglib2.0-dev
 
 git clone https://github.com/PixlOne/logiops.git
 
