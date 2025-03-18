@@ -1,1 +1,20 @@
 sudo apt install git libfuse2 libxi6 libxrender1 libxtst6 mesa-utils libfontconfig libgtk-3-bin tar dbus-user-session build-essential cmake pkg-config libevdev-dev libudev-dev libconfig++-dev libglib2.0-dev
+
+git clone https://github.com/PixlOne/logiops.git
+
+cd logiops
+
+mkdir build
+cd build
+cmake -DCMAKE_BUILD_TYPE=Release ..
+make
+
+sudo make install
+
+sudo systemctl enable --now logid
+
+sudo nano /etc/logid.cfg
+
+sudo systemctl enable --now logid
+
+sudo systemctl enable logid
